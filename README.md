@@ -97,7 +97,7 @@ for (let s of sessionDb) {
 
 Kode di atas adalah suatu pemanggil atau lebih tepatnya kode dasar untuk login atau create sesi sebuat whatsapp web
 
-Apabila sudah, lanjut ke langka selanjutnya adalah buat file dengan nama ``` paclage.json ```
+Apabila sudah, lanjut ke langka selanjutnya adalah buat file dengan nama ``` package.json ```
 
 ```bash 
 $ mkdir package.json
