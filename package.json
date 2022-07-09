@@ -7,7 +7,7 @@
     "version": "1.0.0",
     "type": "module",
     "dependencies": {
-        "@adiwajshing/baileys": "^4.2.0",
+        "@adiwajshing/baileys": "github:adiwajshing/baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "moment-timezone": "^0.5.34",
         "qrcode-terminal": "^0.12.0"
